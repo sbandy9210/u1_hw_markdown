@@ -33,7 +33,7 @@ This project is on markdown lanuage and it is a way to style text on the web.
 
 
 # Credits 
-Dog images: DuckDuckGo search
+Images: DuckDuckGo search
 
 Markdown guide: https://itsfoss.com/markdown-guide/
 
